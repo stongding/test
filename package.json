@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "description": "this is test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stongding/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stongding/test/issues"
+  },
+  "homepage": "https://github.com/stongding/test#readme"
+}
