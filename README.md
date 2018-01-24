@@ -6,3 +6,4 @@ upate for feature_x
 merged.
 
 new test
+add package.json
